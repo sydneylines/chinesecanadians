@@ -1,4 +1,5 @@
 parentid,objectid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript
+,graceeaton_00,"Achuen Amoy ""Grace"" Eaton",,,,,,,,,,Image;StillImage,image/jpg,eng,,,compound_object,/objects/graceeaton2.jpg,/objects/small/graceeaton2_sm.jpg,/objects/thumbs/graceeaton2_th.jpg,,
 graceeaton_00,graceeaton_01,"Achuen Amoy ""Grace"" Eaton in her teens",,,,,,,,,,Image;StillImage,image/jpg,eng,,,image,/objects/graceeaton1.jpg,/objects/small/graceeaton1_sm.jpg,/objects/thumbs/graceeaton1_th.jpg,,
 graceeaton_00,graceeaton_02,"Achuen Amoy ""Grace"" Eaton as an adult",,,,,,,,,,Image;StillImage,image/jpg,eng,,,image,/objects/graceeaton2.jpg,/objects/small/graceeaton2_sm.jpg,/objects/thumbs/graceeaton2_th.jpg,,
 graceeaton_00,graceeaton_03,"Achuen Amoy ""Grace"" Eaton as an elder",,,,,,,,,,Image;StillImage,image/jpg,eng,,,image,/objects/graceeaton3.jpg,/objects/small/graceeaton3_sm.jpg,/objects/thumbs/graceeaton3_th.jpg,,
