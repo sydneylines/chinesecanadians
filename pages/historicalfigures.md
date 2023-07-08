@@ -8,9 +8,8 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
-
 {% include feature/nav-menu.html sections="Historical Chinese Canadians;Some Other Info" %}
+{% include feature/image.html objectid="achuenamoy_07" width="50" %} 
 
 ## Historical Chinese Canadians
 
@@ -24,6 +23,8 @@ If you want to list bios out here on their own, you can do so like:
 - Etc.
 
 ## Some Other Info
-Use this section to highlight some other important info. Maybe you can add something like contributor names.
+Use this section to highlight some other important info. Maybe you can add contributor names or acknowledge and link to the various archives used to source historical material.
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+- Montreal Gazette Archives
+- [Library and Archives Canada](https://library-archives.canada.ca/eng)
+- Etc.
