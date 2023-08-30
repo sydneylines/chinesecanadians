@@ -17,10 +17,13 @@ Use this section to provide some overall framing about the historical people and
 
 If you want to list bios out here on their own, you can do so like:
 
-- Achuen “Grace” Amoy Eaton (1846-1921)
-- Arthur Lee (1916-2002)
-- Sang Kee (~1855-1949)
-- Etc.
+- [Achuen Amoy (Grace Eaton), 1846-1921](https://chinese-canadians.github.io/chinesemontreal/achuenamoy.html)
+- [Edith Eaton (Sui Sin Far), dates](https://chinese-canadians.github.io/chinesemontreal/editheaton.html)
+- [Ho Sang Kee (~1855-1949), dates](https://chinese-canadians.github.io/chinesemontreal/hosangkee.html)
+- [Chu Shee (Chu Nuy), dates](https://chinese-canadians.github.io/chinesemontreal/chushee.html) 
+- [George Ho Sang Kee, dates](https://chinese-canadians.github.io/chinesemontreal/georgehosangkee.html)
+- [Wing Sing & Family, dates](https://chinese-canadians.github.io/chinesemontreal/wingsing.html) 
+- [Wong Cheeping, dates](https://chinese-canadians.github.io/chinesemontreal/wingsing.html)
 
 ## Some Other Info
 Use this section to highlight some other important info. Maybe you can add contributor names or acknowledge and link to the various archives used to source historical material.
