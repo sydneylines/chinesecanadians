@@ -8,24 +8,24 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://sydneylines.github.io
+url: https://chinese-canadians.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /chinesecanadians/
+baseurl: /chinesemontreal/
 # location of code, the full url to your github repository
-source-code: https://github.com/sydneylines/chinesecanadians
+source-code: https://chinese-canadians.github.io/chinesemontreal/
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Recovering Early Chinese Canadian Literature and History
+title: Early Chinese in Montreal
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: A virtual exhibit of early Chinese residents in Montreal, QC.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: montreal;history;chinese
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: sydneylines
 
