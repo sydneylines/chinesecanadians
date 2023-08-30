@@ -23,7 +23,7 @@ If you want to list bios out here on their own, you can do so like:
 - [Chu Shee (Chu Nuy), dates](https://chinese-canadians.github.io/chinesemontreal/chushee.html) 
 - [George Ho Sang Kee, dates](https://chinese-canadians.github.io/chinesemontreal/georgehosangkee.html)
 - [Wing Sing & Family, dates](https://chinese-canadians.github.io/chinesemontreal/wingsing.html) 
-- [Wong Cheeping, dates](https://chinese-canadians.github.io/chinesemontreal/wingsing.html)
+- [Wong Cheeping, dates](https://chinese-canadians.github.io/chinesemontreal/wongcheeping.html)
 
 ## Some Other Info
 Use this section to highlight some other important info. Maybe you can add contributor names or acknowledge and link to the various archives used to source historical material.
