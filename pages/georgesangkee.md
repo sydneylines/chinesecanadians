@@ -1,18 +1,18 @@
 ---
-title: Ho Sang Kee
+title: George Sang Kee
 layout: about
-permalink: /hosangkee.html
+permalink: /georgesangkee.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## Ho Sang Kee, 1859-1949
+## George Ho Sang Kee, 1895-1908
 
-### Hotelier – Advocate – Father
+### Son - Scholar
 
-By Delaney Anderson
+By Camille Lopez
 
 #### Biography
 

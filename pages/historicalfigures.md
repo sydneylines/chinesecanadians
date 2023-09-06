@@ -21,7 +21,7 @@ If you want to list bios out here on their own, you can do so like:
 - [Edith Eaton (Sui Sin Far), dates](https://chinese-canadians.github.io/chinesemontreal/editheaton.html)
 - [Ho Sang Kee (~1855-1949), dates](https://chinese-canadians.github.io/chinesemontreal/hosangkee.html)
 - [Chu Shee (Chu Nuy), dates](https://chinese-canadians.github.io/chinesemontreal/chushee.html) 
-- [George Ho Sang Kee, dates](https://chinese-canadians.github.io/chinesemontreal/georgehosangkee.html)
+- [George Ho Sang Kee, dates](https://chinese-canadians.github.io/chinesemontreal/georgesangkee.html)
 - [Wing Sing & Family, dates](https://chinese-canadians.github.io/chinesemontreal/wingsing.html) 
 - [Wong Cheeping, dates](https://chinese-canadians.github.io/chinesemontreal/wongcheeping.html)
 

@@ -1,5 +1,5 @@
 ---
-title: Blog Title
+title: Wing Sing Family
 layout: about
 permalink: /wingsing.html
 # include CollectionBuilder info at bottom
@@ -8,16 +8,12 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="Blog Section Titles;Another Placeholder Title" %}
-{% include feature/image.html objectid="achuenamoy_07" width="50" %} 
+## Wing Sing Family, 1860s-?
 
-## Blog Section Titles
+### Merchant Family - Community Members
 
-Use this section to provide some overall framing about the historical people and biographies users will encounter in this archive. 
+By Ethan Xi Hao Eu
 
-## Another Placeholder Title
-Use this section to highlight some other important info. Maybe you can add contributor names or acknowledge and link to the various archives used to source historical material.
+#### Biography
 
-- Montreal Gazette Archives
-- [Library and Archives Canada](https://library-archives.canada.ca/eng)
-- Etc.
+[Sample Text]]

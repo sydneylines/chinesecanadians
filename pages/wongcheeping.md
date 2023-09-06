@@ -1,5 +1,5 @@
 ---
-title: Blog Title
+title: Wong Cheeping
 layout: about
 permalink: /wongcheeping.html
 # include CollectionBuilder info at bottom
@@ -8,16 +8,12 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="Blog Section Titles;Another Placeholder Title" %}
-{% include feature/image.html objectid="achuenamoy_07" width="50" %} 
+## Wong Cheeping, 1860s-?
 
-## Blog Section Titles
+### Business Man - Community Member - Transnational Figure
 
-Use this section to provide some overall framing about the historical people and biographies users will encounter in this archive. 
+By Amanda Law
 
-## Another Placeholder Title
-Use this section to highlight some other important info. Maybe you can add contributor names or acknowledge and link to the various archives used to source historical material.
+#### Biography
 
-- Montreal Gazette Archives
-- [Library and Archives Canada](https://library-archives.canada.ca/eng)
-- Etc.
+[Sample Text]]
