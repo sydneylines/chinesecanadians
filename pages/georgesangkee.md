@@ -12,7 +12,7 @@ credits: false
 
 {% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/achuenamoy1.jpg" width="75" alt="Achuen Amoy as teen" caption="Achuen Amoy in her teens (Salter 170)."%}
 
-{% include feature/nav-menu.html sections="English;漢語;Français;Sources/來源;Images/圖片" %}
+{% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
 
 ## English
 
@@ -70,7 +70,7 @@ George Ho Sang Kee reçut un riche héritage culturel. A l’âge d’un mois, i
 
 George est admis au Children's Memorial Hospital et meurt à l'âge de douze ans le 3 mars 1908, après avoir séjourné à l'hôpital « pendant un certain temps » (« Death of Chinese Boy »). La cause du décès est incertaine, mais il est possible qu'il ait contracté une maladie pendant les mois d'hiver. La mort de George en mars est suivie par celle de sa mère en juillet. Il est enterré à côté d'elle au cimetière du Mont-Royal.
 
-## Sources/來源
+## Sources 來源
 
 Anderson, Delaney. “Sang Kee: At the Heart of Montreal’s Early Chinese Community.” Chinese Canadians: Recovering Early Chinese Canadian Literature and History, 19 Feb 2023. https://blogs.ubc.ca/chinesecanadians/2023/02/19 sang-kee-at-the-heart-of-montreals-early-chinese-community-by-delaney-anderson/ 
 
@@ -84,4 +84,4 @@ Eaton, Edith (Unsigned). “Completion of the Moon.” Montreal Daily Star, 23 O
 
 —. “Girl Slave in Montreal. Our Chinese Colony Cleverly Described. Only Two Women from the Flowery Land in Town.” Montreal Daily Witness. 4 May 1894: 10. 
 
-## Images/圖片
+## Images 圖片

@@ -12,7 +12,7 @@ credits: false
 
 {% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/achuenamoy1.jpg" width="75" alt="Achuen Amoy as teen" caption="Achuen Amoy in her teens (Salter 170)."%}
 
-{% include feature/nav-menu.html sections="English;漢語;Français;Sources/來源;Images/圖片" %}
+{% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
 
 ## English
 
@@ -86,7 +86,7 @@ Du fait qu'elle ne porte pas le *Liangbatou* (coiffe à grandes ailes), nous pou
 
 Malgré leur bonne fortune, Wing Sing et sa femme ont lutté  de nombreuses années pour avoir un enfant (« Color » ). En 1903, avec l'aide de Mme Joe Pong, ils adoptent un bébé d’origine irlandaise ( « Color » ); ils l’appellent You Kang et le chérissent (« Novel Case »). Des reportages contemporains ont noté que M. Wing Sing portait souvent You Kang devant son magasin autour du marché St. Lawrence afin qu'ils puissent profiter du soleil ensemble (« Novel Case »). Dans un carnet de voyage écrit du point de vue d’un Wing sing fictif, Edith Eaton raconte que Wing Sing et sa femme oubliaient souvent «les règles de bienséance» et donnaient des bains au bébé ensemble. (Eaton, « Wing Sing » ).
 
-## Sources/來源
+## Sources 來源
 
 “A Chinese Entertainment.” *The Montreal Gazette*. 27 Mar 1895: 3. 
 
@@ -132,4 +132,4 @@ Rao, Nancy Yunhwa. “A Note on Chinese Names and Terms.” *Chinatown Opera The
 
 “Woo Joss in Court.” *The Montreal Gazette*. 1 Sep 1898: 3.
 
-## Images/圖片
+## Images 圖片

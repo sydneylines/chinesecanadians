@@ -12,7 +12,7 @@ credits: false
 
 {% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/achuenamoy1.jpg" width="75" alt="Achuen Amoy as teen" caption="Achuen Amoy in her teens (Salter 170)."%}
 
-{% include feature/nav-menu.html sections="English;漢語;Français;Sources/來源;Images/圖片" %}
+{% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
 
 ## English
 
@@ -76,7 +76,7 @@ Il y a peu de détails sur les années qui ont précédé l’arrivée de Wong C
 
 En 1896, Wong Cheeping retourne en Chine en compagnie de Sin Chow Kee (沈洲紀) et Sin Kee (沈紀), deux autres marchands associés à la Tye Loy Company (« Briefs »). On ne sait pas s'il est revenu ou non à Montréal après ce voyage. Il confie la société Tye Loy à son partenaire commercial Lou Chan Hoy (« Will Bring His Wife Here »), suggérant que son voyage serait un retour prolongé, voire permanent, en Chine pour rejoindre sa femme. Par la suite, les traces de la présence de Wong Cheeping dans les journaux montréalais disparaissent. Il est possible qu'il soit retourné à Montréal, mais cela n'a jamais été rapporté car il n'a pas rejoint Tye Loy. Ou peut-être a-t-il décidé de ne pas revenir, car la taxe pour faire venir sa famille au Canada aurait été trop élevée. Peut-être s'est-il réinstallé à New York. Quelque soit le chemin emprunté par Cheeping après 1896, son départ du Canada après avoir subi le processus long et ardu de naturalisation, couplé à sa vague présence à New York, présente Wong Cheeping comme une figure transnationale qui a parcouru un chemin complexe, et a vécu une histoire dont Montréal n'est qu'une partie infime
 
-## Sources/來源
+## Sources 來源
 
 “Advertisers Business Classified Directory,” *Lovell’s Montreal Directory, for 1894-95*. Montreal, John Lovell & Son, 1894. 
 
@@ -104,4 +104,4 @@ Helly, Denise. *Les chinois à Montréal 1877-1951*. Institut québécois de rec
 
 “Will Bring His Wife Here.” *Montreal Daily Star*. 23 Mar. 1896: 2. 
 
-## Images/圖片
+## Images 圖片

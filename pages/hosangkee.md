@@ -12,7 +12,7 @@ credits: false
 
 {% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/achuenamoy1.jpg" width="75" alt="Achuen Amoy as teen" caption="Achuen Amoy in her teens (Salter 170)."%}
 
-{% include feature/nav-menu.html sections="English;漢語;Français;Sources/來源;Images/圖片" %}
+{% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
 
 ## English
 
@@ -77,7 +77,7 @@ Ho Sang Kee se méfie de plus en plus des journalistes au fur et à mesure des a
 
 Malgré les mystères actuels qui demeurent non résolus sur sa vie, il est clair que Sang Kee a vécu au cœur d'une communauté transnationale de Nord-Américains chinois et a aidé à  l'hébergement de milliers d'hommes chinois dans sa pension de Montréal à une époque tumultueuse où le Canada et les États-Unis s’efforçaient de les faire disparaître par voie législative.
 
-## Sources/來源
+## Sources 來源
 
 “A Chinaman Investigating.” The Ottawa Journal. 29 Oct 1892: 1. https://www.newspapers.com/image/44403868 
 
@@ -131,4 +131,4 @@ Malgré les mystères actuels qui demeurent non résolus sur sa vie, il est clai
 
 “The Chinese Land of Promise.” The Montreal Star. 23 Jun 1894: 8. www.newspapers.com/image/740900828 
 
-## Images/圖片
+## Images 圖片

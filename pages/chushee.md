@@ -12,7 +12,7 @@ credits: false
 
 {% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/achuenamoy1.jpg" width="75" alt="Achuen Amoy as teen" caption="Achuen Amoy in her teens (Salter 170)."%}
 
-{% include feature/nav-menu.html sections="English;漢語;Français;Sources/來源;Images/圖片" %}
+{% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
 
 ## English
 
@@ -80,7 +80,7 @@ Une autre interprétation a est que sa posture pendant le banquet représente un
 
 Il est vrai que ce tableau ne peut être considéré comme représentatif de tous les banquets de mariage chinois de l'époque. Cependant, cela suggère que la posture assise de Chu Shee ne s’explique pas uniquement par la tradition cérémonielle. De manière spéculative - mais pas moins spéculative que le journaliste qui a interprété son geste comme une expression de timidité), j'oserais dire qu’il aurait été difficile de rester assise perpendiculairement à ses invité, en termes de pression sociale, la posture de Chu Shee pourrait témoigner d’une certaine force de caractère et de détermination. Indépendamment de son interprétation, l'image de Mme Kee sur sa chaise pendant son mariage est un moment digne d'une contemplation plus approfondie.
 
-## Sources/來源
+## Sources 來源
 
 Eaton, Edith. “Girl Slave in Montreal. Our Chinese Colony Cleverly Described. Only Two Women from the Flowery Land in Town.” *Montreal Daily Witness*. 14 Mar 1894: 10. In *Becoming Sui Sin Far*. ed. Mary Chapman. McGill-Queen’s UP, 2016: 10.
 
@@ -98,4 +98,4 @@ Le Groupe de Mme Sang Kee (1897). *Musée McCord Stewart*. Montreal, QC. Retriev
 
 Ward, W. Peter & Yu, Henry. *Register of Chinese immigrants to Canada 1885-1949*. Retrieved from https://open.library.ubc.ca/cIRcle/collections/facultyresearchandpublications/52383/items/1.0075988
 
-## Images/圖片
+## Images 圖片

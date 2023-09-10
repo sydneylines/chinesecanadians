@@ -12,7 +12,7 @@ credits: false
 
 {% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/achuenamoy1.jpg" width="75" alt="Achuen Amoy as teen" caption="Achuen Amoy in her teens (Salter 170)."%}
 
-{% include feature/nav-menu.html sections="English;漢語;Français;Sources/來源;Images/圖片" %}
+{% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
 
 ## English
 
@@ -59,6 +59,6 @@ Edith a également écrit de nombreuses lettres aux rédacteurs en chef pour dé
 
 Après 1910, Edith  obtient suffisamment de succès grâce à ses écrits pour ne plus avoir à compléter ses revenus par un travail sténographique. Elle s'installe à Boston où elle consacre les deux années suivantes à assembler le manuscrit de *Mrs. Spring Fragrance*, son premier et unique livre, qui rassemble dix-sept nouvelles pour adultes et vingt « Tales of Chinese Children » (« Contes pour enfants chinois »), dont la plupart avaient été déja publiés dans des magazines américains. Lorsqu' Edith meurt deux ans plus tard à Montréal d'une maladie cardiaque, elle laisse derrière elle un manuscrit qui n'a jamais été retrouvé.
 
-## Sources/來源
+## Sources 來源
 
-## Images/圖片
+## Images 圖片

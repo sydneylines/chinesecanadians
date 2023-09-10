@@ -12,7 +12,7 @@ credits: false
 
 {% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/achuenamoy1.jpg" width="75" alt="Achuen Amoy as teen" caption="Achuen Amoy in her teens (Salter 170)."%}
 
-{% include feature/nav-menu.html sections="English;漢語;Français;Sources/來源;Images/圖片" %}
+{% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
 
 ## English
 
@@ -48,7 +48,7 @@ En 1852, Achuen Amoy parcourt les États-Unis en funambule, en commençant par S
 
 Au début des années 1860, elle se rend en Chine où elle fait un service de médecin missionnaire jusqu'à ce qu'elle rencontre et épouse le marchand britannique Edward Eaton. Après la naissance de Charles Edward, leur premier enfant en 1864, la jeune famille retourne en Angleterre où naît Edith leur deuxième enfant. Edith deviendra l'autrice bien connue de « Sui Sin Far ». Au cours de l'hiver 1872-1873, la famille émigre à Montréal, où « Mme Grace Eaton » fut probablement la première femme chinoise à y vivre. A Montréal, Grace s'occupe de ses douze enfants, mais trouve aussi le temps de rendre visite aux immigrantes chinoises pour son église et d'écrire une série de récits sur sa vie en tant que médecin missionnaire.
 
-## Sources/來源
+## Sources 來源
 
 Advertisement for “Chinese Family”,  *Leamington Spa Courier*, 25 Mar 1854: 2.
 
@@ -66,7 +66,7 @@ Rodecape, Lois. “Celestial Drama in the Golden Hills: The Chinese Theatre in C
 
 Salter, Joseph. *The Asiatic in England: Sketches of 16 Years Among the Asiatics* (1872).
 
-## Images/圖片
+## Images 圖片
 
 {% include feature/image.html objectid="achuenamoy_01;achuenamoy_02;achuenamoy_03;achuenamoy_07;" %}
 {% include feature/image.html objectid="achuenamoy_06;achuenamoy_04;achuenamoy_05;achuenamoy_08" %}
