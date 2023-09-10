@@ -10,7 +10,7 @@ credits: false
 
 # Edith Eaton (Sui Sin Far), 1865-1914 and the Birth of Asian North American Writing 
 
-{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/achuenamoy1.jpg" width="75" alt="Achuen Amoy as teen" caption="Achuen Amoy in her teens (Salter 170)."%}
+{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/editheaton11.jpg" width="50" alt="Achuen Amoy as teen" caption="Edith Eaton in 1896."%}
 
 {% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
 
