@@ -68,5 +68,8 @@ Salter, Joseph. *The Asiatic in England: Sketches of 16 Years Among the Asiatics
 
 ## Images 圖片
 
-{% include feature/image.html objectid="achuenamoy_01;achuenamoy_02;achuenamoy_03;achuenamoy_07;" %}
-{% include feature/image.html objectid="achuenamoy_06;achuenamoy_04;achuenamoy_05;achuenamoy_08" %}
+{% include feature/image.html objectid="achuenamoy_01;achuenamoy_02;achuenamoy_03;achuenamoy_13;" %}
+
+<div style="text-align: center;">
+{% include feature/button.html text="More Images | 更多圖片 | More Images " link="https://chinese-canadians.github.io/chinesemontreal/browse.html#achuen%20amoy" color="success" %}
+</div>
