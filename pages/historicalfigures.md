@@ -8,26 +8,16 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="Historical Chinese Canadians;Some Other Info" %}
-{% include feature/image.html objectid="achuenamoy_07" width="50" %} 
+# Historical Chinese Montrealers  
 
-## Historical Chinese Canadians
+{% include feature/image.html objectid="achuenamoy_02;editheaton_11;sangkee_02;wingsing_05" %}
 
-Use this section to provide some overall framing about the historical people and biographies users will encounter in this archive. 
+This archive features pictures, newspaper articles, and other archival ephemera about some of Montreal's earliest Chinese inhabitants. Read more about who they were by clicking their names below.
 
-If you want to list bios out here on their own, you can do so like:
-
-- [Achuen Amoy (Grace Eaton), 1846-1921](https://chinese-canadians.github.io/chinesemontreal/achuenamoy.html)
-- [Edith Eaton (Sui Sin Far), dates](https://chinese-canadians.github.io/chinesemontreal/editheaton.html)
-- [Ho Sang Kee (~1855-1949), dates](https://chinese-canadians.github.io/chinesemontreal/hosangkee.html)
-- [Chu Shee (Chu Nuy), dates](https://chinese-canadians.github.io/chinesemontreal/chushee.html) 
-- [George Ho Sang Kee, dates](https://chinese-canadians.github.io/chinesemontreal/georgesangkee.html)
-- [Wing Sing & Family, dates](https://chinese-canadians.github.io/chinesemontreal/wingsing.html) 
-- [Wong Cheeping, dates](https://chinese-canadians.github.io/chinesemontreal/wongcheeping.html)
-
-## Some Other Info
-Use this section to highlight some other important info. Maybe you can add contributor names or acknowledge and link to the various archives used to source historical material.
-
-- Montreal Gazette Archives
-- [Library and Archives Canada](https://library-archives.canada.ca/eng)
-- Etc.
+- [Achuen Amoy (Grace Eaton), 1846-1922](https://chinese-canadians.github.io/chinesemontreal/achuenamoy.html)
+- [Edith Eaton (Sui Sin Far), 1865-1914](https://chinese-canadians.github.io/chinesemontreal/editheaton.html)
+- [Chu Shee (Chu Nuey), (1873-1908)](https://chinese-canadians.github.io/chinesemontreal/chushee.html) 
+- [Ho Sang Kee (1859-1949)](https://chinese-canadians.github.io/chinesemontreal/hosangkee.html)
+- [George Ho Sang Kee, (1895-1908)](https://chinese-canadians.github.io/chinesemontreal/georgesangkee.html)
+- [Wing Sing & Family, (1860s-?)](https://chinese-canadians.github.io/chinesemontreal/wingsing.html) 
+- [Wong Cheeping, (1860s-?)](https://chinese-canadians.github.io/chinesemontreal/wongcheeping.html)
