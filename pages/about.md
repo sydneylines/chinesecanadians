@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="Exhibition Statement;蒙特利爾的早期華人;Les Premiers Chinois à Montréal;Credits | 鳴謝 | Crédits" %}
+{% include feature/nav-menu.html sections="Exhibition Statement;蒙特利爾的早期華人;Les Premiers Chinois à Montréal" %}
 
 ## Exhibition Statement
 
@@ -28,23 +28,3 @@ La communauté chinoise de Montréal s'est établie pour la première fois lorsq
 
 Lors d’un séminaire sur la littérature sino-canadienne, des étudiants diplômés de l’Université de la Colombie-Britannique ont découvert le journalisme du Montreal Star et du Montreal Witness des années 1890 sur la communauté chinoise de Montréal, écrit par l’écrivaine sino-canadienne Edith Eaton (Sui Sin Far). En s’appuyant sur le journalisme d’Eaton, d’autres articles de journaux, de documents généalogiques et commerciaux et de conversations avec des descendants, les étudiants ont composé des profils biographiques qui ont superposé les expériences historiquement situées de sept personnages clés sur une histoire abstraite et anonyme de la migration chinoise au Canada. *Les Premiers Chinois à Montréal* – une exposition éphémère physique complétée par une exposition virtuelle plus vaste – partage cette recherche.
 
-## Credits | 鳴謝 | Crédits
-
-Curator: Dr. Mary Chapman, University of British Columbia
-Research and Writing for Pop-up and Online Exhibitions: UBC students Delaney Anderson, Meghna Chatterjee, Ethan Xi Hao Eu, Amanda Law, Camille Lopez, and Tom Playfair
-Virtual and Pop-Up Exhibition Designer: Sydney Lines
-Translations: Sima Godfrey, Sarah Buddhason, Stanley Chia, and Mathilda Poulenay
-Thank you to Laurence Lee, Karen Tam, Henry Yu, and Robert Sweeny
-
-**Image Credits**
-Early Chinese in Montreal: Insurance Plan of City of Montreal (1890), Plate 5, Bibliothèque et Archives nationales du Québec.
-Achuen Amoy: Portrait of Grace “Amoy” Eaton, from the Collection of Elizabeth Rooney. “Chinese Magicians” poster, Stanford University American Broadsides 1-8461. Advertisement in Christopher Milbourne, Magic: A Picture History, p. 124.
-Edith Eaton: Wm. Notman, & Son, Miss Eaton, Montreal, QC, 1896. II-116250.1 McCord Stewart Museum. Mrs. Spring Fragrance cover, from Cornell University via HathiTrust. Portrait of Edith Eaton from the Collection of Diana Birchall.
-Ho Sang Kee: Photograph of Haw family, 1905, from the Collection of the late Avis H. Lee.
-hu Shee: Wm. Notman & Son,  Le Groupe de Mme. Sang Kee, 1897. II-120280 McCord Stewart Museum. Photograph of Haw family, 1905, from the Collection of the late Avis H. Lee.
-George Sang Kee: Photograph of Haw family, 1905, from the Collection of the late Avis H. Lee.
-Wing Sing Family: Madame Gagné, Mrs. Wing Sing and Son, QC, MP-1984.44.1.2 McCord Stewart Museum. Sui Sin Far, “Wing Sing and his Wife,” in New Age Magazine, Nov. 1904.
-Wong Cheeping: “Like a Laundry Ticket,” Montreal Weekly Witness, 18 April 1894: 5. Naturalization certificate for Wong Cheeping, Library and Archives Canada, 1892.
-Credits: Insurance Plan of City of Montreal (1890), Plate 5, Bibliothèque et Archives nationales du Québec.
-
-*Funded by SSHRC, UBC (Department of English, Public Humanities Hub, and Centre for Community-Engaged Learning)*
