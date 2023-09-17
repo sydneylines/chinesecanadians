@@ -7,7 +7,7 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-{% include feature/jumbotron.html objectid="https://chinese-canadians.github.io/chinesemontreal/images/cc-header.jpg" %}
+{% include feature/jumbotron.html objectid="chinatown_04" %}
 
 {% include feature/nav-menu.html sections="Exhibition Statement;蒙特利爾的早期華人;Les Premiers Chinois à Montréal" %}
 
