@@ -18,17 +18,23 @@ credits: false
 
 ### *Mui Tsai*, Acrobat, Missionary, Writer
 
-By Mary Chapman 
+By Mary Chapman and Sydney Lines
 
 Achuen “Grace” Amoy Eaton (1846-1922) was born in China, probably Shanghai, soon after the Treaty of Nanking (around 1846) gave European and North American merchants and missionaries access to key Chinese ports. Her parents, possibly because of extreme poverty caused by drought or war, sold her at a young age to Nanjing-based Tuck Quy and his wife Wang Noo, who led a group of Chinese jugglers and acrobats that toured the world billed as the “Chinese Magicians.” The name “Amoy” was probably given to her by her owners because “Amoy,” a corruption of  mui tsai meaning “little sister”, was a common euphemism for “slave girl” and “Achuen” could mean Spring, to indicate she was born or purchased in the Spring.
 
 By 1852, Achuen Amoy was tightrope dancing her way across the US starting in San Francisco. Beginning in 1853, when a smaller group of “Chinese Magicians” toured Britain and France, she served as the human target of Tuck Quy’s knife-throwing stunt. In Summer 1855, she left her London boarding house and the man whom media and trial records described as an abusive owner. She then served as a Chinese interpreter in London’s Old Bailey Law Courts, was baptized in the Church of England as “Grace”, and trained to be a missionary.
 
-In the early 1860s, she travelled to China where she served as a medical missionary until she met and married British merchant Edward Eaton. After her first child, Charles Edward, was born in 1864, the young family returned to England where her second child Edith (who became well-known author “Sui Sin Far”) was born. In the winter of 1872/3, the family emigrated to Montreal where “Mrs. Grace Eaton” was probably the first Chinese female inhabitant. While living in Montreal, Grace took care of her twelve children, but also found time to visit immigrant Chinese women on behalf of her church and to write a serialized story about her life as a medical missionary.
+In the early 1860s, she travelled to China where she served as a medical missionary until she met and married British merchant Edward Eaton. After her first child, Charles Edward, was born in 1864, the young family returned to England where her second child Edith (who became well-known author “Sui Sin Far”) was born. In the winter of 1872/3, the family emigrated to Montreal where “Mrs. Grace Eaton” was probably the first Chinese female inhabitant. While living in Montreal, Grace took care of her twelve children, but also found time to visit immigrant Chinese women on behalf of her church.
+
+In 1906, at the age of 60, Grace Eaton wrote *Jade: A Chinese Missionary Romance*, a serialized novella about her life as a medical missionary in Shanghai recently recovered by Sydney Lines in the *Montreal Weekly Witness*. *Jade* is likely the first Asian North American novel published in English by a Chinese-born author. Grace's daughter Winnifred Eaton (Onoto Watanna) is credited as the first Asian North American novelist with the publication of 1899's *Miss Nume of Japan* just seven years earlier. The facsimile for *Jade* is included in this exhibit and can be read below.
+
+{% include feature/pdf.html objectid="achuenamoy_14" width="50" %} 
 
 ## 漢語
 
 ### 妹仔，雜技演員，傳教士，作家
+
+作家Mary Chapman和Sydney Lines
 
 Achuen “Grace” Amoy Eaton（1846-1922 年）出生於中國，或許是在上海，在南京條約（1846 年左右）允許歐洲和北美的商人和傳教士進入中國最主要港口之後不久。也許是由於乾旱或戰爭造成的極端貧困，她的父母在她年幼的時候就把她賣給了南京的 Tuck Quy 和他的妻子 Wang Noo。這對夫婦帶領一群被稱為“中國人魔術師”的中國投擲戲和雜技演員在世界各地巡迴演出。“Amoy”這個名字也許是她的主人給她取的，因為“Amoy”是“妹仔”的變體，意思是“小妹妹”，也是“奴婢”的常見委婉說法。
  
@@ -40,7 +46,7 @@ Achuen “Grace” Amoy Eaton（1846-1922 年）出生於中國，或許是在�
 
 ### *Mui Tsai*, Funambule, Missionaire, Ecrivaine
 
-Par Mary Chapman  
+Par Mary Chapman et Sydney Lines
 
 Achuen « Grace » Amoy Eaton (~1846-1922) est née en Chine, probablement à Shanghai, peu après que le traité de Nankin (vers 1846) ait donné aux marchands et missionnaires Européens et Nord-Américains l'accès aux principaux ports Chinois. Sûrement à cause de l'extrême pauvreté causée par la sécheresse ou la guerre elle fut vendue à un jeune âge par ses parents à Tuck Quy, et à sa femme Wang Noo basé à Nanjin. Le couple dirige alors un groupe de jongleurs et d'acrobates chinois qui faisaient le tour du monde, présentés comme les Magiciens Chinois. Son nom ("Amoy ») lui a probablement été donné par ses propriétaires car « Amoy»,  venant du « mui tsai»  signifiant « petite sœur » , était un euphémisme courant pour désigner une « fille esclave », et « Achuen » voulant dire « printemps », signale qu’elle est née ou fut achetée au printemps.
 
@@ -54,7 +60,7 @@ Advertisement for “Chinese Family”,  *Leamington Spa Courier*, 25 Mar 1854: 
 
 Advertisement for “Chinese Magicians”, *Daily Alta California*, Volume 3, Number 278, 8 October 1852.
 
-Eaton, Grace. Jade. *Montreal Gazette*. 1906.
+Eaton, Grace. "Jade: A Chinese Missionary Romance." *Montreal Weekly Witness*. July 1906.
 
 Death record, New York State, May 6 1922.
 
@@ -71,5 +77,5 @@ Salter, Joseph. *The Asiatic in England: Sketches of 16 Years Among the Asiatics
 {% include feature/image.html objectid="achuenamoy_01;achuenamoy_02;achuenamoy_03;achuenamoy_13;" %}
 
 <div style="text-align: center;">
-{% include feature/button.html text="More Images | 更多圖片 | More Images " link="https://chinese-canadians.github.io/chinesemontreal/browse.html#achuen%20amoy" color="success" %}
+{% include feature/button.html text="More Images | 更多圖片 | Plus Images " link="https://chinese-canadians.github.io/chinesemontreal/browse.html#achuen%20amoy" color="success" %}
 </div>
