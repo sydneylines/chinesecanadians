@@ -26,7 +26,7 @@ By 1852, Achuen Amoy was tightrope dancing her way across the US starting in San
 
 In the early 1860s, she travelled to China where she served as a medical missionary until she met and married British merchant Edward Eaton. After her first child, Charles Edward, was born in 1864, the young family returned to England where her second child Edith (who became well-known author “Sui Sin Far”) was born. In the winter of 1872/3, the family emigrated to Montreal where “Mrs. Grace Eaton” was probably the first Chinese female inhabitant. While living in Montreal, Grace took care of her twelve children, but also found time to visit immigrant Chinese women on behalf of her church.
 
-In 1906, at the age of 60, Grace Eaton wrote *Jade: A Chinese Missionary Romance*, a serialized novella about her life as a medical missionary in Shanghai recently recovered by Sydney Lines in the *Montreal Weekly Witness*. *Jade* is likely the first Asian North American novel published in English by a Chinese-born author. Grace's daughter Winnifred Eaton (Onoto Watanna) is credited as the first Asian North American novelist with the publication of 1899's *Miss Nume of Japan* just seven years earlier. The facsimile for *Jade* is included in this exhibit and can be read below.
+In 1906, at the age of 60, Grace Eaton wrote *Jade: A Chinese Missionary Romance*, a serialized novella about her life as a medical missionary in Shanghai recently recovered by Sydney Lines in the *Montreal Weekly Witness*. *Jade* is likely the first Asian North American novel published in English by a Chinese-born author. Grace's daughter Winnifred Eaton (Onoto Watanna) is credited as the first Asian North American novelist with the publication of 1899's *Miss Nume of Japan* just seven years earlier. The facsimile for the recovered portion of *Jade* (chapters IV-X) is included in this exhibit and can be read below.
 
 {% include feature/pdf.html objectid="achuenamoy_14" width="50" %} 
 
@@ -60,7 +60,7 @@ Advertisement for “Chinese Family”,  *Leamington Spa Courier*, 25 Mar 1854: 
 
 Advertisement for “Chinese Magicians”, *Daily Alta California*, Volume 3, Number 278, 8 October 1852.
 
-Eaton, Grace. "Jade: A Chinese Missionary Romance." *Montreal Weekly Witness*. July 1906.
+Eaton, Grace. *Jade: A Chinese Missionary Romance*. *Montreal Weekly Witness*. July 1906.
 
 Death record, New York State, May 6 1922.
 
