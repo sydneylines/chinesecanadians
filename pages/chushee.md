@@ -10,7 +10,7 @@ credits: false
 
 ## Chu Shee (Chu Nuey), 1873-1908
 
-{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/achuenamoy1.jpg" width="75" alt="Achuen Amoy as teen" caption="Achuen Amoy in her teens (Salter 170)."%}
+{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/sangkee2.jpg" width="50" alt="Chu Shee with children" caption="Chu Shee (Mrs. Sang Kee) with children"%}
 
 {% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
 
@@ -99,3 +99,9 @@ Le Groupe de Mme Sang Kee (1897). *Musée McCord Stewart*. Montreal, QC. Retriev
 Ward, W. Peter & Yu, Henry. *Register of Chinese immigrants to Canada 1885-1949*. Retrieved from https://open.library.ubc.ca/cIRcle/collections/facultyresearchandpublications/52383/items/1.0075988
 
 ## Images 圖片
+
+{% include feature/image.html objectid="sangkee_13-3;sangkee_08;sangkee_04;" %}
+
+<div style="text-align: center;">
+{% include feature/button.html text="More Images | 更多圖片 | Plus Images " link="https://chinese-canadians.github.io/chinesemontreal/browse.html#sang%20kee%20family" color="success" %}
+</div>

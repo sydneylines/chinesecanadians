@@ -10,7 +10,7 @@ credits: false
 
 ## Ho Sang Kee (1859-1949)
 
-{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/achuenamoy1.jpg" width="75" alt="Achuen Amoy as teen" caption="Achuen Amoy in her teens (Salter 170)."%}
+{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/sangkee3.jpg" width="75" alt="Ho Sang Kee with wife (Che Shee) and children" caption="Ho Sang Kee with wife (Chu Shee) and children."%}
 
 {% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
 
@@ -132,3 +132,9 @@ Malgré les mystères actuels qui demeurent non résolus sur sa vie, il est clai
 “The Chinese Land of Promise.” The Montreal Star. 23 Jun 1894: 8. www.newspapers.com/image/740900828 
 
 ## Images 圖片
+
+{% include feature/image.html objectid="sangkee_13-3;sangkee_08;sangkee_13-4;sangkee_01;" %}
+
+<div style="text-align: center;">
+{% include feature/button.html text="More Images | 更多圖片 | Plus Images " link="https://chinese-canadians.github.io/chinesemontreal/browse.html#sang%20kee%20family" color="success" %}
+</div>

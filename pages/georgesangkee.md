@@ -8,9 +8,9 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## George Ho Sang Kee, 1895-1908
+## George Sang Kee, 1895-1908
 
-{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/achuenamoy1.jpg" width="75" alt="Achuen Amoy as teen" caption="Achuen Amoy in her teens (Salter 170)."%}
+{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/sangkee3.jpg" width="75" alt="George Sang Kee (far left) with family" caption="George Sang Kee (far left) with family."%}
 
 {% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
 
@@ -85,3 +85,9 @@ Eaton, Edith (Unsigned). “Completion of the Moon.” Montreal Daily Star, 23 O
 —. “Girl Slave in Montreal. Our Chinese Colony Cleverly Described. Only Two Women from the Flowery Land in Town.” Montreal Daily Witness. 4 May 1894: 10. 
 
 ## Images 圖片
+
+{% include feature/image.html objectid="sangkee_02;sangkee_15;sangkee_05;" %}
+
+<div style="text-align: center;">
+{% include feature/button.html text="More Images | 更多圖片 | Plus Images " link="https://chinese-canadians.github.io/chinesemontreal/browse.html#sang%20kee%20family" color="success" %}
+</div>

@@ -10,7 +10,7 @@ credits: false
 
 ## Wing Sing Family, 1860s-?
 
-{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/achuenamoy1.jpg" width="75" alt="Achuen Amoy as teen" caption="Achuen Amoy in her teens (Salter 170)."%}
+{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/wingsing6.jpg" width="50" alt="Mrs. Wing Sing and son" caption="Mrs. Wing Sing and son."%}
 
 {% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
 
@@ -133,3 +133,9 @@ Rao, Nancy Yunhwa. “A Note on Chinese Names and Terms.” *Chinatown Opera The
 “Woo Joss in Court.” *The Montreal Gazette*. 1 Sep 1898: 3.
 
 ## Images 圖片
+
+{% include feature/image.html objectid="wingsing_05;sangkee_13-3;sangkee_06-1;wingsing_11;" %}
+
+<div style="text-align: center;">
+{% include feature/button.html text="More Images | 更多圖片 | Plus Images " link="https://chinese-canadians.github.io/chinesemontreal/browse.html#sang%20kee%20family" color="success" %}
+</div>

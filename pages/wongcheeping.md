@@ -10,7 +10,7 @@ credits: false
 
 ## Wong Cheeping, 1860s-?
 
-{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/achuenamoy1.jpg" width="75" alt="Achuen Amoy as teen" caption="Achuen Amoy in her teens (Salter 170)."%}
+{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/wongcheeping03.jpg" width="75" alt="Wong Cheeping's naturalization certificate" caption="Wong Cheeping's naturalization certificate."%}
 
 {% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
 
@@ -105,3 +105,9 @@ Helly, Denise. *Les chinois à Montréal 1877-1951*. Institut québécois de rec
 “Will Bring His Wife Here.” *Montreal Daily Star*. 23 Mar. 1896: 2. 
 
 ## Images 圖片
+
+{% include feature/image.html objectid="wongcheeping_02;wongcheeping_01;wongcheeping_04;" %}
+
+<div style="text-align: center;">
+{% include feature/button.html text="More Images | 更多圖片 | Plus Images " link="https://chinese-canadians.github.io/chinesemontreal/browse.html#wong%20cheeping" color="success" %}
+</div>

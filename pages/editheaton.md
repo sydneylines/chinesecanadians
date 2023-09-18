@@ -10,7 +10,7 @@ credits: false
 
 # Edith Eaton (Sui Sin Far), 1865-1914 and the Birth of Asian North American Writing 
 
-{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/editheaton11.jpg" width="50" alt="Achuen Amoy as teen" caption="Edith Eaton in 1896."%}
+{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/editheaton3.jpg" width="50" alt="Edith Eaton with book" caption="Edith Eaton with book."%}
 
 {% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
 
@@ -62,3 +62,9 @@ Après 1910, Edith  obtient suffisamment de succès grâce à ses écrits pour n
 ## Sources 來源
 
 ## Images 圖片
+
+{% include feature/image.html objectid="editheaton_01;editheaton_06;editheaton_11;editheaton_07;" %}
+
+<div style="text-align: center;">
+{% include feature/button.html text="More Images | 更多圖片 | Plus Images " link="https://chinese-canadians.github.io/chinesemontreal/browse.html#achuen%20amoy" color="success" %}
+</div>
