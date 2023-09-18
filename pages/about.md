@@ -9,7 +9,7 @@ credits: false
 ---
 {% include feature/jumbotron.html objectid="chinatown_04" %}
 
-{% include feature/image.html objectid="sangkee_06-2" %}
+{% include feature/image.html objectid="/assets/img/banners.png" alt="A decorative header of small thumbnails of the banners created for the pop-up exhibit in Montreal" caption="Small thumbnails of the banners created for the pop-up exhibit in Montreal."%}
 
 {% include feature/nav-menu.html sections="Exhibition Statement;蒙特利爾的早期華人;Les Premiers Chinois à Montréal" %}
 

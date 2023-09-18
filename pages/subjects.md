@@ -6,6 +6,7 @@ permalink: /subjects.html
 # leave cloud-fields as "site.data.theme.subjects-fields"
 cloud-fields: site.data.theme.subjects-fields
 ---
+{% include feature/jumbotron.html objectid="chinatown_04" %}
 
 ## Browse Subjects
 
