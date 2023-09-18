@@ -10,7 +10,7 @@ credits: false
 
 ## Wong Cheeping, 1860s-?
 
-{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/wongcheeping03.jpg" width="75" alt="Wong Cheeping's naturalization certificate" caption="Wong Cheeping's naturalization certificate."%}
+{% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/wongcheeping3.jpg" width="75" alt="Wong Cheeping's naturalization certificate" caption="Wong Cheeping's naturalization certificate."%}
 
 {% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
 

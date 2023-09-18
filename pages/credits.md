@@ -49,7 +49,7 @@ credits: false
 
 **Designer d'Expositions Virtuelles et Éphémères**: Sydney Lines
 
-**Traduction**: Sima Godfrey, Sarah Buddhason, Stanley Chia, and Mathilda Poulenay
+**Traduction**: Sima Godfrey, Sarah Buddhason, Stanley Chia, et Mathilda Poulenay
 
 **Merci** à Laurence Lee, Karen Tam, Henry Yu, et Robert Sweeny
 
