@@ -11,9 +11,9 @@ credits: false
 
 {% include feature/image.html objectid="/assets/img/banners.png" alt="A decorative header of small thumbnails of the banners created for the pop-up exhibit in Montreal" caption="Small thumbnails of the banners created for the pop-up exhibit in Montreal."%}
 
-{% include feature/nav-menu.html sections="Exhibition Statement;蒙特利爾的早期華人;Les Premiers Chinois à Montréal" %}
+{% include feature/nav-menu.html sections="Early Chinese in Montreal;蒙特利爾的早期華人;Les Premiers Chinois à Montréal" %}
 
-## Exhibition Statement
+## Early Chinese in Montreal
 
 Montreal’s Chinese community first established itself when workers came east after the completion of the railway. By 1888, there were about 30 Chinese men living in Montreal, but by the 1890s, families had also begun to settle in a nascent Chinatown. However, many of them left behind few records. 
 
