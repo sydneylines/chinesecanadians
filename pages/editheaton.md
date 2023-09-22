@@ -32,19 +32,25 @@ After 1910, Edith had achieved enough success through her writing that she no lo
 
 ## 漢語
 
+## Edith Eaton/ 水仙花 (1865-1914) 與亞洲北美寫作的誕生
+
 ### 記者 - 小說作家 - 社區發言人
 
-伊迪絲·莫德·伊頓（Edith Maude Eaton）於1865年出生在英國北部的一個絲織城鎮。在她出生幾個月後，她的中國出生的母親 Achuen (Grace) Amoy 和她的英國白人父親Edward Eaton與Edith和她的兄弟Charles Edward一起搬到了紐約，Edward在紐約創辦了一家藥品和染料業務。但這個不斷壯大的家庭於1868年返回英國。當Eaton一家於1872年再次前往北美，這次帶著五個不到八歲的孩子，他們定居在蒙特利爾的Hochelaga社區。
+作者 Mary Chapman 與 Meghna Chatterjee
 
-在1870年代和1880年代的蒙特利爾，Edith和她的兄弟姐妹可能是唯一的半華裔，當時華人社區僅有少數經營洗衣店的男性。Edith回憶起她和她的兄弟經常被稱為種族歧視詞語。特別是在加拿大橫貫大陸鐵路建成後，反華情緒加劇，導致伊迪絲的幾個兄弟姐妹假裝成日本人、西班牙人或墨西哥人。
+Edith Maude Eaton 於1865年出生在英國北部的一個絲織城鎮。在她出生幾個月後，她的中國出生的母親 Achuen (Grace) Amoy 和她的英國出生的白人父親Edward Eaton與Edith和她的兄弟Charles Edward一起搬到了紐約，Edward在那裡建立了一家藥品和染料公司。但這個不斷壯大的家庭於1868年返回英國。1872年，Eaton一家再次前往北美，這次帶著五個不到八歲的孩子，他們定居在蒙特利爾的Hochelaga社區。
 
-然而，在一名牧師的鼓勵下，Edith和她的母親開始訪問蒙特利爾的兩名新來的中國女性，她開始公開自認為中國人。她開始匿名為《蒙特利爾見證報》和《蒙特利爾之星》撰寫有關蒙特利爾小而日益壯大的華人社區的文章。作為一名半華裔的“女記者”，Edith能夠特權地接觸到華人商人及其家人的私人生活：他們的嬰兒誕生、儀式、婚禮和社交生活，這些後來都啟發了她的唐人街小說。Edith還寫了許多信件給編輯，捍衛華人移民免受種族主義政策的影響，例如中國頭號稅政策。
+在1870年代和1880年代的蒙特利爾，Edith和她的兄弟姐妹可能是唯一的半華裔，當時華人社區僅有少數經營洗衣店的男性。Edith回憶起她和她的兄弟經常被稱為種族歧視詞語。特別是在加拿大橫貫大陸鐵路建成後，反華情緒加劇，導致Edith的幾個兄弟姐妹假裝成日本人、西班牙人或墨西哥人。
 
-當她於1898年移民美國時，Edith採用筆名“水仙花”（Sui Sin Far），意思是“中國的神聖百合”，並開始在舊金山、洛杉磯和西雅圖等地的當地期刊上發表有關華人移民社區的故事，這些期刊包括西雅圖郵訊智報和《西部人》；宣教雜誌，如《內外雜誌》、《基督教傳道者》和《安息記錄》；兒童雜誌，如《兒童雜誌》和《小朋友們》；以及女性雜誌，如《女士之家》、《時裝師》、《設計師》、《好家政》、《家政專家》、《荷蘭》和《美國母親》。她還為鐵路公司寫廣告詞，並以一名男性華人商人文興(音譯)（Wing Sing）的視角，為洛杉磯快報寫了一篇長達十五篇的遊記。到1909年，她的作品已經在近40家美國和加拿大的流行雜誌和報紙上發表。
+然而，在一名牧師的鼓勵下，Edith和她的母親去看望兩名剛到蒙特婁的中國婦女後，開始公開承認自己是中國人。她開始匿名為《蒙特利爾見證報》和《蒙特利爾之星》撰寫有關蒙特利爾小而日益壯大的華人社區的文章。作為一名半華裔的“女記者”，Edith能夠特權地接觸到華人商人及其家人的私人生活：他們的嬰兒誕生、儀式、婚禮和社交生活，這些後來都啟發了她的唐人街小說。Edith還給編輯寫了許多封信，捍衛華人移民免受種族主義政策的影響，例如華人頭稅政策。
 
-1910年後，Edith通過她的寫作取得了足夠的成功，不再需要以速記工作來補充收入。她搬到波士頓，在那裡她花了接下來的兩年時間編纂《春之芬芳夫人》的手稿，這是她唯一的一本書，收錄了十七個成人短篇小說和二十個“中國兒童故事”，其中大部分已經在美國的雜誌上刊登過。兩年後，當Edith因心臟疾病在蒙特利爾去世時，她留下了一份從未被找到的手稿。
+當她於1898年移民美國時，Edith採用筆名“水仙花”（Sui Sin Far），意思是“中國的神聖百合”，並開始在舊金山、洛杉磯和西雅圖等地的當地期刊上發表有關華人移民社區的故事，這些期刊包括《西雅圖郵訊智報》和《西部人》；宣教雜誌，如《內外雜誌》、《基督教傳道者》和《安息記錄》；兒童雜誌，如《兒童雜誌》和《小朋友們》；以及女性雜誌，如《女士之家》、《時裝師》、《設計師》、《好家政》、《家政專家》、《荷蘭》和《美國母親》。她還為鐵路公司寫廣告詞文案，並以一名男性華人商人Wing Sing的視角，為《洛杉磯快報》寫了一篇長達十五篇的遊記。到1909年，她的作品已經在近40家美國和加拿大的流行雜誌和報紙上發表。
+
+1910年後，Edith通過她的寫作取得了足夠的成功，不再需要以速記工作來補充收入。她搬到波士頓，在那裡她花了接下來的兩年時間編纂《Mrs. Spring Fragrance》（圖2）的手稿，這是她唯一的一本書，收錄了十七個成人短篇小說和二十個“中國兒童故事”，其中大部分已經在美國的雜誌上刊登過。兩年後，當Edith因心臟疾病在蒙特利爾去世時，她留下了一份從未被找到的手稿。
 
 ## Français
+
+### Edith Eaton / Sui Sin Far (1865-1914) et la naissance de l'écriture nord-américaine asiatique
 
 ### Journaliste - Écrivaine - Porte-parole Communautaire
 
@@ -60,6 +66,8 @@ Edith a également écrit de nombreuses lettres aux rédacteurs en chef pour dé
 Après 1910, Edith  obtient suffisamment de succès grâce à ses écrits pour ne plus avoir à compléter ses revenus par un travail sténographique. Elle s'installe à Boston où elle consacre les deux années suivantes à assembler le manuscrit de *Mrs. Spring Fragrance*, son premier et unique livre, qui rassemble dix-sept nouvelles pour adultes et vingt « Tales of Chinese Children » (« Contes pour enfants chinois »), dont la plupart avaient été déja publiés dans des magazines américains. Lorsqu' Edith meurt deux ans plus tard à Montréal d'une maladie cardiaque, elle laisse derrière elle un manuscrit qui n'a jamais été retrouvé.
 
 ## Sources 來源
+
+Chapman, Mary. *Becoming Sui Sin Far: Early Fiction, Journalism, and Travel Writing by Edith Maude Eaton.* McGill-Queen's UP, 2016.  
 
 ## Images 圖片
 
