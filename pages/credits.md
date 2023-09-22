@@ -21,7 +21,7 @@ credits: false
 
 **Virtual and Pop-Up Exhibition Designer**: Sydney Lines
 
-**Translations**: Sima Godfrey, Sarah Buddhason, Stanley Chia, and Mathilda Poulenay
+**Translations**: Sima Godfrey, Sarah Buddhason, Stanley Chia, Primrose, Ethan Xi Hao Eu, and Mathilda Poulenay
 
 **Thank you** to Laurence Lee, Karen Tam, Henry Yu, and Robert Sweeny
 
@@ -35,7 +35,7 @@ credits: false
 
 **臨時展覽和多媒體展覽設計師**：Sydney Lines
 
-**翻譯**: Sima Godfrey、Sarah Buddhason、謝能豐和Mathilda Poulenay
+**翻譯**: Sima Godfrey、Sarah Buddhason、 Primrose、 Ethan Xi Hao Eu、謝能豐和Mathilda Poulenay
 
 **資料提供**：Laurence Lee、譚嘉文、余全毅、謝能豐和Robert Sweeny
 
@@ -49,7 +49,7 @@ credits: false
 
 **Designer d'Expositions Virtuelles et Éphémères**: Sydney Lines
 
-**Traduction**: Sima Godfrey, Sarah Buddhason, Stanley Chia, et Mathilda Poulenay
+**Traduction**: Sima Godfrey, Sarah Buddhason, Stanley Chia, Primrose, Ethan Xi Hao Eu, et Mathilda Poulenay
 
 **Merci** à Laurence Lee, Karen Tam, Henry Yu, et Robert Sweeny
 
