@@ -15,7 +15,7 @@ credits: false
 
 ## Credits
 
-**Curator**: Dr. Mary Chapman, University of British Columbia
+**Curators**: Dr. Mary Chapman and Sydney Lines, University of British Columbia
 
 **Research and Writing for Pop-up and Online Exhibitions**: UBC students Delaney Anderson, Meghna Chatterjee, Ethan Xi Hao Eu, Amanda Law, Camille Lopez, and Tom Playfair
 
@@ -29,9 +29,9 @@ credits: false
 
 ## 鳴謝
 
-**策展人**: 卑詩大學的Mary Chapman博士 
+**策展人**: 學的Mary Chapman博士和Sydney Lines、卑詩大
 
-**臨時展覽和多媒體展覽的研究與寫作**：卑詩大學學生Delaney Anderson、Meghna Chatterjee,、Ethan Xi Hao Eu、Amanda Law、Camille Lopez 和Tom Playfair
+**臨時展覽和多媒體展覽的研究與寫作**：卑詩大學學生Delaney Anderson、Meghna Chatterjee,、Ethan Xi Hao Eu、Amanda Law、Camille Lopez和Tom Playfair
 
 **臨時展覽和多媒體展覽設計師**：Sydney Lines
 
@@ -43,7 +43,7 @@ credits: false
 
 ## Crédits
 
-**Conservatrice**: Dr. Mary Chapman, University of British Columbia
+**Conservatrices**: Dr. Mary Chapman et Sydney Lines, University of British Columbia
 
 **Recherche et Rédaction pour des Expositions Pop-up et En Ligne** : Étudiants de UBC– Delaney Anderson, Meghna Chatterjee, Ethan Xi Hao Eu, Amanda Law, Camille Lopez et Tom Playfair
 

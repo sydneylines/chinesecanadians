@@ -1,6 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/,
-About,/about.html,
+About,,
+About the Exhibit,/about.html,About
+Exhibition Statement,/exhibitionstatement.html,About
 Historical Bios,/historicalbios.html,
 Browse,/browse.html,
 Subjects,/subjects.html,
