@@ -12,7 +12,7 @@ credits: false
 
 {% include feature/image.html objectid="https://chinese-canadians.github.io/chinesemontreal/objects/wongcheeping3.jpg" width="75" alt="Wong Cheeping's naturalization certificate" caption="Wong Cheeping's naturalization certificate."%}
 
-{% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片" %}
+{% include feature/nav-menu.html sections="English;漢語;Français;Sources 來源;Images 圖片;Notes 腳註" %}
 
 ## English
 
@@ -22,7 +22,7 @@ credits: false
 
 by Amanda Law
 
-Described as a “well-to-do, well dressed individual” (“Girl Slave”), in Edith Eaton’s journalism, Mr. Cheeping, or Wong Cheeping (黃志平), was an established businessman and a respected member of the Chinese community in 1890s Montreal. Eaton describes him as fairly fluent in English, well informed, and well mannered (“Girl Slave”), and she gestures to a grocery business he was planning to open. In 1894, with five business partners, Lou Chan Hoy (盧燦開), Wong 
+Described as a “well-to-do, well dressed individual” (“Girl Slave”), in Edith Eaton’s journalism, Mr. Cheeping, or Wong Cheeping (黃志平)[^1], was an established businessman and a respected member of the Chinese community in 1890s Montreal. Eaton describes him as fairly fluent in English, well informed, and well mannered (“Girl Slave”), and she gestures to a grocery business he was planning to open. In 1894, with five business partners, Lou Chan Hoy (盧燦開), Wong 
 Chun (黃昌), Lou Sum (盧深), Chan Man (陳晚), and Lee Jian (李見) (“Sociétés et Dissolutions”), Cheeping opened the Tye Loy (泰萊) Company, a vendor of Chinese and Japanese goods, at 82 Bleury Street (Lovell’s 1894-95 40). It likely attracted Asian customers seeking familiar tastes and smells from home as well as non-Asian customers interested in “exotic” and unfamiliar goods and products. Chinese laundries saturated the Chinese business market in Montreal, but Tye Loy was one of only thirteen Chinese groceries established between 1893 and 1900 (Helly 92). In 1895, it was described as the most important of the six Chinese stores operating in Montreal at that time (“Chinese Colony”).
 
 Cheeping was not only an established figure in Montreal’s Chinese business landscape; he was also an active member of the Chinese community in the Northeast. While he did not have a wife with him in Montreal, he had several local and transnational friends and associates. For example, when Li Sing, another Chinese merchant, stopped in Montreal on his way to New York after visiting China with his wife in 1895, Cheeping hosted the couple at his Bleury Street residence for three weeks (“Chinamen with German Wives”). This suggests that Cheeping had an expansive social network beyond Montreal and Guangzhou (Canton). He had established himself as a merchant in New York City as well, evidenced by his signing the agreement for the Tye Loy (泰萊) Company, as a “merchant of the city of New York” (“Laundry Ticket”). 
@@ -43,7 +43,7 @@ In 1896, Cheeping travelled back to China in the company of Sin Chow Kee (沈洲
 
 作家Amanda Law
  
-在伊迪絲·伊頓（Edith Eaton，中文名也作水仙花） 的新聞報導中，志平（Cheeping）先生或 黃志平（Wong Cheeping） 被描述為“富裕、衣冠楚楚的人”（“蒙特利爾的女奴” / “Girl Slave“)。 他是 1890 年代蒙特利爾華人社區的知名商人和受人尊敬的成員。伊頓形容他英語相當流利、見多識廣、彬彬有禮（“蒙特利爾的女奴” / “Girl Slave“)。 她也提起了他打算開的一家雜貨店。 1894 年，黃志平與五個商業夥伴 , 盧燦開Lou Chan Hoy）, 黃昌（Wong Chun）, 盧深（Lou Sum）, 陳晚（Chan Man），李見（Lee Jian）(“Sociétés et Dissolutions”), 一起在布魯里街82號（82 Bleury Street）開設了 泰來（Tye Loy）公司，一家中國和日本商品的供應商（Lovell’s 1894-95 40）。它或許吸引了尋求熟悉家鄉口味和氣味的亞洲顧客，以及對“異國情調”和不熟悉的商品和產品感興趣的非亞洲顧客。在蒙特利爾的華人業態中，洗衣店佔很大一部分，但泰來是 1893 年至 1900 年間建立的僅有的13 家華人雜貨店之一 (Helly 92)。 1895年，它被描述為當時在蒙特利爾經營的六家華人商店中最重要的一家（“華人殖民地”/“Chinese Colony”）。
+在伊迪絲·伊頓（Edith Eaton，中文名也作水仙花） 的新聞報導中，志平（Cheeping）先生或 黃志平[^2]（Wong Cheeping）被描述為“富裕、衣冠楚楚的人”（“蒙特利爾的女奴” / “Girl Slave“)。 他是 1890 年代蒙特利爾華人社區的知名商人和受人尊敬的成員。伊頓形容他英語相當流利、見多識廣、彬彬有禮（“蒙特利爾的女奴” / “Girl Slave“)。 她也提起了他打算開的一家雜貨店。 1894 年，黃志平與五個商業夥伴 , 盧燦開Lou Chan Hoy）, 黃昌（Wong Chun）, 盧深（Lou Sum）, 陳晚（Chan Man），李見（Lee Jian）(“Sociétés et Dissolutions”), 一起在布魯里街82號（82 Bleury Street）開設了 泰來（Tye Loy）公司，一家中國和日本商品的供應商（Lovell’s 1894-95 40）。它或許吸引了尋求熟悉家鄉口味和氣味的亞洲顧客，以及對“異國情調”和不熟悉的商品和產品感興趣的非亞洲顧客。在蒙特利爾的華人業態中，洗衣店佔很大一部分，但泰來是 1893 年至 1900 年間建立的僅有的13 家華人雜貨店之一 (Helly 92)。 1895年，它被描述為當時在蒙特利爾經營的六家華人商店中最重要的一家（“華人殖民地”/“Chinese Colony”）。
  
 黃志平不僅是蒙特利爾華人商業界的知名人物， 他還是加拿大東北部華人社區的活躍成員。他在蒙特利爾雖然沒有妻子，但是有幾個加國內外的朋友和同事。例如，當另一位中國商人李星（Li Sing）于1895 年與他的妻子訪問中國後，在前往紐約的途中在蒙特利爾停留時，黃志平在他位於布魯里街的住所接待了這對夫婦三個星期（“有德國妻子的中國人” / “Chinamen with German Wives”）。這表明黃志平擁有著超越蒙特利爾和廣州 (Canton) 的廣泛社交網絡。他也在紐約市確立了自己的商人地位，有他以“紐約市的商人”名義簽署泰來（Tye Loy）公司協議為證（“洗衣票”/“Laundry Ticket”）。
  
@@ -64,7 +64,7 @@ In 1896, Cheeping travelled back to China in the company of Sin Chow Kee (沈洲
 
 ### Homme d’Affaires - Membre de la Communauté - Personnage Transnational
 
-Décrit comme un « individu aisé et bien habillé » (« Girl Slave »), dans les articles  d'Edith Eaton, M. Cheeping, ou Wong Cheeping, était un homme d'affaires établi et un membre respecté de la communauté chinoise dans les années 1890 à Montréal. Eaton le décrit comme parlant assez couramment l'anglais, bien informé et bien élevé ( « Girl Slave »), et elle fait allusion à une épicerie qu'il prévoyait d'ouvrir. En 1894, avec cinq associés, Lou Chan Hoy (盧燦開), Wong Chun (黃昌), Lou Sum (盧深), Chan Man (陳晚), et Lee Jian (李見) («Sociétés et Dissolutions» ), Cheeping ouvre la Tye Loy (泰萊) Company, une boutique de produits chinois et japonais, au 82 rue Bleury (Lovell's 1894-95 40). Elle attirait probablement des clients asiatiques à la recherche de saveurs et d'odeurs familières ainsi que des clients non asiatiques intéressés par des biens et produits «exotiques» et inconnus. Les blanchisseries chinoises saturent le marché commercial chinois à Montréal, mais Tye Loy est l'une des treize seules épiceries chinoises établies entre 1893 et ​​1900 (Helly 92). En 1895, la boutique est décrite comme la plus importante des six épiceries chinoises en activité à Montréal à cette époque (« Chinese Colony »).
+Décrit comme un « individu aisé et bien habillé » (« Girl Slave »), dans les articles  d'Edith Eaton, M. Cheeping, ou Wong Cheeping (黃志平)[^3], était un homme d'affaires établi et un membre respecté de la communauté chinoise dans les années 1890 à Montréal. Eaton le décrit comme parlant assez couramment l'anglais, bien informé et bien élevé ( « Girl Slave »), et elle fait allusion à une épicerie qu'il prévoyait d'ouvrir. En 1894, avec cinq associés, Lou Chan Hoy (盧燦開), Wong Chun (黃昌), Lou Sum (盧深), Chan Man (陳晚), et Lee Jian (李見) («Sociétés et Dissolutions» ), Cheeping ouvre la Tye Loy (泰萊) Company, une boutique de produits chinois et japonais, au 82 rue Bleury (Lovell's 1894-95 40). Elle attirait probablement des clients asiatiques à la recherche de saveurs et d'odeurs familières ainsi que des clients non asiatiques intéressés par des biens et produits «exotiques» et inconnus. Les blanchisseries chinoises saturent le marché commercial chinois à Montréal, mais Tye Loy est l'une des treize seules épiceries chinoises établies entre 1893 et ​​1900 (Helly 92). En 1895, la boutique est décrite comme la plus importante des six épiceries chinoises en activité à Montréal à cette époque (« Chinese Colony »).
 
 Wong Cheeping n'était pas seulement une figure établie dans le paysage commercial chinois de Montréal; il était également un membre actif de la communauté chinoise du Nord-Est. Bien qu'il n'ait pas de femme avec lui à Montréal, il avait plusieurs amis et associés locaux et transnationaux. Par exemple, lorsque Li Sing, un autre marchand chinois, s'arrête à Montréal en route pour New York après avoir visité la Chine avec sa femme en 1895, Cheeping héberge le couple dans sa résidence de la rue Bleury pendant trois semaines (« Chinamen with German Wives »). Cela suggère que Wong Cheeping avait un vaste réseau social au-delà de Montréal et de Guangzhou (Canton). Il s'était également établi comme marchand à New York, comme en témoigne sa signature de l'accord pour la Tye Loy Company, en tant que «marchand de la ville de New York» (« Laundry Ticket »).
 
@@ -111,3 +111,11 @@ Helly, Denise. *Les chinois à Montréal 1877-1951*. Institut québécois de rec
 <div style="text-align: center;">
 {% include feature/button.html text="More Images | 更多圖片 | Plus Images " link="https://chinese-canadians.github.io/chinesemontreal/browse.html#wong%20cheeping" color="success" %}
 </div>
+
+## Notes 腳註
+
+[^1]: Names are translated from signatures in Hanyu Pinyin.
+
+[^2]: 姓名由漢語拼音簽名翻譯而來
+
+[^3]: Les noms sont traduits à partir des signatures en Hanyu Pinyin.

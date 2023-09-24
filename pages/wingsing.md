@@ -40,7 +40,7 @@ Despite their good fortune, Wing Sing and his wife struggled for many years to h
 
 ## 漢語
 
-### 文興夫婦：蒙特利爾早期華人的刻板印象與生活
+### Wing Sing 夫婦：蒙特利爾早期華人的刻板印象與生活
 
 ### 商人家庭 - 社區成員
 

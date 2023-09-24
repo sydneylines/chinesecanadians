@@ -54,3 +54,5 @@ credits: false
 **Merci** à Laurence Lee, Karen Tam, Henry Yu, et Robert Sweeny
 
 *Financement par SSHRC et UBC (Département d'anglais, Public Humanities Hub, et Centre for Community-Engaged Learning).*
+
+{% include feature/image.html objectid="/assets/img/cc-funders.jpg" %}

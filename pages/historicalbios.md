@@ -17,9 +17,9 @@ This archive features pictures, newspaper articles, and other archival ephemera 
 
 - [Achuen Amoy (Grace Eaton), 1846-1922](https://chinese-canadians.github.io/chinesemontreal/achuenamoy.html)
 - [Edith Eaton (Sui Sin Far), 1865-1914](https://chinese-canadians.github.io/chinesemontreal/editheaton.html)
-- [Chu Shee (Chu Nuey), (1873-1908)](https://chinese-canadians.github.io/chinesemontreal/chushee.html) 
-- [Ho Sang Kee (1859-1949)](https://chinese-canadians.github.io/chinesemontreal/hosangkee.html)
-- [George Ho Sang Kee, (1895-1908)](https://chinese-canadians.github.io/chinesemontreal/georgesangkee.html)
-- [Wing Sing & Family, (1860s-?)](https://chinese-canadians.github.io/chinesemontreal/wingsing.html) 
-- [Wong Cheeping, (1860s-?)](https://chinese-canadians.github.io/chinesemontreal/wongcheeping.html)
+- [Chu Shee (Chu Nuey, Mrs. Sang Kee), 1873-1908](https://chinese-canadians.github.io/chinesemontreal/chushee.html) 
+- [Ho Sang Kee (Charlie Hore Sang), 1859-1949](https://chinese-canadians.github.io/chinesemontreal/hosangkee.html)
+- [George "Georgie" Sang Kee, 1895-1908](https://chinese-canadians.github.io/chinesemontreal/georgesangkee.html)
+- [Wing Sing & Family, 1860s-?](https://chinese-canadians.github.io/chinesemontreal/wingsing.html) 
+- [Wong Cheeping, 1860s-?](https://chinese-canadians.github.io/chinesemontreal/wongcheeping.html)
 
