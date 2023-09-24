@@ -69,7 +69,7 @@ Après 1910, Edith  obtient suffisamment de succès grâce à ses écrits pour n
 
 Chapman, Mary. *Becoming Sui Sin Far: Early Fiction, Journalism, and Travel Writing by Edith Maude Eaton.* McGill-Queen's UP, 2016.  
 
-Sui Sin Far. Mrs. *Spring Fragrance*. (Chicago: McClurg, 1912).
+Sui Sin Far. *Mrs. Spring Fragrance*. (Chicago: McClurg, 1912).
 
 ## Images 圖片
 
