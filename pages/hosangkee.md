@@ -133,7 +133,7 @@ Malgré les mystères actuels qui demeurent non résolus sur sa vie, il est clai
 
 ## Images 圖片
 
-{% include feature/image.html objectid="sangkee_13-3;sangkee_08;sangkee_13-4;sangkee_01;" %}
+{% include feature/image.html objectid="sangkee_08;sangkee_06;sangkee_01;" %}
 
 <div style="text-align: center;">
 {% include feature/button.html text="More Images | 更多圖片 | Plus Images " link="https://chinese-canadians.github.io/chinesemontreal/browse.html#sang%20kee%20family" color="success" %}

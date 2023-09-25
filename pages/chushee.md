@@ -100,7 +100,7 @@ Ward, W. Peter & Yu, Henry. *Register of Chinese immigrants to Canada 1885-1949*
 
 ## Images 圖片
 
-{% include feature/image.html objectid="sangkee_13-3;sangkee_08;sangkee_04;" %}
+{% include feature/image.html objectid="sangkee_13;sangkee_08;sangkee_03;" %}
 
 <div style="text-align: center;">
 {% include feature/button.html text="More Images | 更多圖片 | Plus Images " link="https://chinese-canadians.github.io/chinesemontreal/browse.html#sang%20kee%20family" color="success" %}

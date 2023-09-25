@@ -134,7 +134,7 @@ Rao, Nancy Yunhwa. “A Note on Chinese Names and Terms.” *Chinatown Opera The
 
 ## Images 圖片
 
-{% include feature/image.html objectid="wingsing_05;sangkee_13-3;sangkee_06-1;wingsing_11;" %}
+{% include feature/image.html objectid="wingsing_05;sangkee_06;wingsing_11;" %}
 
 <div style="text-align: center;">
 {% include feature/button.html text="More Images | 更多圖片 | Plus Images " link="https://chinese-canadians.github.io/chinesemontreal/browse.html#sang%20kee%20family" color="success" %}
