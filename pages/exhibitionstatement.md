@@ -9,7 +9,7 @@ credits: false
 ---
 {% include feature/jumbotron.html objectid="chinatown_04" %}
 
-{% include feature/image.html objectid="/assets/img/banners.png" alt="A decorative header of small thumbnails of the banners created for the pop-up exhibit in Montreal" caption="Small thumbnails of the banners created for the pop-up exhibit in Montreal."%}
+{% include feature/image.html objectid="/assets/img/montreal-exhibit.jpg" alt="An image of the nine retractable banners on display in an indoor room." caption="The retractable banners on display in Montreal."%}
 
 {% include feature/nav-menu.html sections="Early Chinese in Montreal;蒙特利爾的早期華人;Les Premiers Chinois à Montréal" %}
 
