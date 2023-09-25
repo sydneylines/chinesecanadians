@@ -73,7 +73,7 @@ Sui Sin Far. *Mrs. Spring Fragrance*. (Chicago: McClurg, 1912).
 
 ## Images 圖片
 
-{% include feature/image.html objectid="editheaton_01;editheaton_06;editheaton_11;editheaton_07;" %}
+{% include feature/image.html objectid="editheaton_01;editheaton_06;editheaton_07;" %}
 
 <div style="text-align: center;">
 {% include feature/button.html text="More Images | 更多圖片 | Plus Images " link="https://chinese-canadians.github.io/chinesemontreal/browse.html#achuen%20amoy" color="success" %}
