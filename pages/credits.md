@@ -17,7 +17,7 @@ credits: false
 
 **Research and Writing for Pop-up and Online Exhibitions**: UBC students Delaney Anderson, Meghna Chatterjee, Ethan Xi Hao Eu, Amanda Law, Camille Lopez, and Tom Playfair
 
-**Virtual and Pop-Up Exhibition Designer**: Sydney Lines
+**Virtual and Pop-Up Exhibition Designer**: [Sydney Lines](mailto:sydney.lines@gmail.com)
 
 **Translations**: Sima Godfrey, Sarah Buddhason, Stanley Chia, Primrose, Ethan Xi Hao Eu, and Mathilda Poulenay
 
@@ -31,7 +31,7 @@ credits: false
 
 **臨時展覽和多媒體展覽的研究與寫作**：卑詩大學學生Delaney Anderson、Meghna Chatterjee,、Ethan Xi Hao Eu、Amanda Law、Camille Lopez和Tom Playfair
 
-**臨時展覽和多媒體展覽設計師**：Sydney Lines
+**臨時展覽和多媒體展覽設計師**：[Sydney Lines](mailto:sydney.lines@gmail.com)
 
 **翻譯**: Sima Godfrey、Sarah Buddhason、 Primrose、 Ethan Xi Hao Eu、謝能豐和Mathilda Poulenay
 
@@ -45,7 +45,7 @@ credits: false
 
 **Recherche et Rédaction pour des Expositions Pop-up et En Ligne** : Étudiants de UBC– Delaney Anderson, Meghna Chatterjee, Ethan Xi Hao Eu, Amanda Law, Camille Lopez et Tom Playfair
 
-**Designer d'Expositions Virtuelles et Éphémères**: Sydney Lines
+**Designer d'Expositions Virtuelles et Éphémères**: [Sydney Lines](mailto:sydney.lines@gmail.com)
 
 **Traduction**: Sima Godfrey, Sarah Buddhason, Stanley Chia, Primrose, Ethan Xi Hao Eu, et Mathilda Poulenay
 
