@@ -9,8 +9,6 @@ credits: false
 ---
 {% include feature/jumbotron.html objectid="chinatown_04" %}
 
-{% include feature/image.html objectid="/assets/img/montreal-exhibit.jpg" alt="An image of the nine retractable banners on display in an indoor room." caption="The retractable banners on display in Montreal."%}
-
 {% include feature/nav-menu.html sections="Credits;鳴謝;Crédits" %}
 
 ## Credits
