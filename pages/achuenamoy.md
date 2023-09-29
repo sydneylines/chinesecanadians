@@ -54,6 +54,10 @@ En 1852, Achuen Amoy parcourt les États-Unis en funambule, en commençant par S
 
 Au début des années 1860, elle se rend en Chine où elle fait un service de médecin missionnaire jusqu'à ce qu'elle rencontre et épouse le marchand britannique Edward Eaton. Après la naissance de Charles Edward, leur premier enfant en 1864, la jeune famille retourne en Angleterre où naît Edith leur deuxième enfant. Edith deviendra l'autrice bien connue de « Sui Sin Far ». Au cours de l'hiver 1872-1873, la famille émigre à Montréal, où « Mme Grace Eaton » fut probablement la première femme chinoise à y vivre. A Montréal, Grace s'occupe de ses douze enfants, mais trouve aussi le temps de rendre visite aux immigrantes chinoises pour son église et d'écrire une série de récits sur sa vie en tant que médecin missionnaire.
 
+En 1906, à l'âge de 60 ans, Grace Eaton écrit Jade: A Chinese Missionary Romance, une nouvelle sur sa vie de missionnaire médicale à Shanghai, publiée en feuilleton dans le Montreal Weekly Witness et récemment retrouvée par Sydney Lines. Jade est probablement le premier roman asiatique nord-américain écrit en anglais par un auteur né en Chine.. La fille de Grace, Winnifred Eaton (Onoto Watanna), est considérée comme la première romancière asiatique nord-américaine avec la publication de Miss Numè of Japan en 1899, sept ans plus tôt. On peut lire le fac-similé de la partie retrouvée de Jade (chapitres IV-X) ci-dessous.
+
+{% include feature/pdf.html objectid="achuenamoy_14" width="50" %} 
+
 ## Sources 來源
 
 Advertisement for “Chinese Family”,  *Leamington Spa Courier*, 25 Mar 1854: 2.
