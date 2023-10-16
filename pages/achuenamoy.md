@@ -42,6 +42,10 @@ Achuen “Grace” Amoy Eaton（1846-1922 年）出生於中國，或許是在�
  
 1860年初，她前往中國擔任醫療傳教士， 直到遇見英國商人愛德·華伊頓並與之結婚。在她的第一個孩子查爾斯·愛德華 (Charles Edward) 於 1864 年出生後，這個年輕的家庭便回到了英國，由此她的第二個孩子伊迪絲(著名作家“隋仙發”) 出生。 1872/3 年冬天，她跟全家移居蒙特利爾。而她或許成為了那裡的第一位華人女性居民。在蒙特利爾生活期間，Achuen “Grace” Amoy照顧她的十二個孩子，但也抽出時間代表她的教會拜訪中國女性移民，並把她醫療傳教士的生活和經歷撰寫成連載故事《翡翠》。
 
+1906 年，60 歲的Grace Eaton 寫了《Jade: A Chinese Missionary Romance》，這是一部講述她在上海擔任醫療傳教士生活的中篇小說，在《Montreal Weekly Witness》上連載，最近被Sydney Lines回收。 《Jade》可能是第一本由中國出生的作家用英文出版的亞裔北美小說。Grace的女兒Winnifred Eaton（Onoto Watanna）被認為是第一位亞洲裔北美小說家，七年前出版了 1899 年的《Miss Numè of Japan》。已回收的《Jade》部分（第四章至第十章）的傳真包含在本展覽中，可以在下面閱讀。
+
+{% include feature/pdf.html objectid="achuenamoy_14" width="50" %} 
+
 ## Français
 
 ### *Mui Tsai*, Funambule, Missionaire, Ecrivaine
