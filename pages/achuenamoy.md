@@ -28,8 +28,6 @@ In the early 1860s, she travelled to China where she served as a medical mission
 
 In 1906, at the age of 60, Grace Eaton wrote *Jade: A Chinese Missionary Romance*, a serialized novella about her life as a medical missionary in Shanghai recently recovered by Sydney Lines. *Jade* is likely the first Asian North American novel published in English by a Chinese-born author. Grace's daughter Winnifred Eaton (Onoto Watanna) is credited as the first Asian North American novelist with the publication of 1899's *Miss Nume of Japan* just seven years earlier. The facsimile for the recovered portion of *Jade* (chapters IV-X) is included in this exhibit and can be read below.
 
-{% include feature/pdf.html objectid="achuenamoy_14" width="50" %} 
-
 ## 漢語
 
 ### 妹仔，雜技演員，傳教士，作家
@@ -43,8 +41,6 @@ Achuen “Grace” Amoy Eaton（1846-1922 年）出生於中國，或許是在�
 1860年初，她前往中國擔任醫療傳教士， 直到遇見英國商人愛德·華伊頓並與之結婚。在她的第一個孩子查爾斯·愛德華 (Charles Edward) 於 1864 年出生後，這個年輕的家庭便回到了英國，由此她的第二個孩子伊迪絲(著名作家“隋仙發”) 出生。 1872/3 年冬天，她跟全家移居蒙特利爾。而她或許成為了那裡的第一位華人女性居民。在蒙特利爾生活期間，Achuen “Grace” Amoy照顧她的十二個孩子，但也抽出時間代表她的教會拜訪中國女性移民，並把她醫療傳教士的生活和經歷撰寫成連載故事《翡翠》。
 
 1906 年，60 歲的Grace Eaton 寫了《Jade: A Chinese Missionary Romance》，這是一部講述她在上海擔任醫療傳教士生活的中篇小說，上連載，最近被Sydney Lines回收。 《Jade》可能是第一本由中國出生的作家用英文出版的亞裔北美小說。Grace的女兒Winnifred Eaton（Onoto Watanna）被認為是第一位亞洲裔北美小說家，七年前出版了 1899 年的《Miss Numè of Japan》。已回收的《Jade》部分（第四章至第十章）的傳真包含在本展覽中，可以在下面閱讀。
-
-{% include feature/pdf.html objectid="achuenamoy_14" width="50" %} 
 
 ## Français
 
@@ -60,15 +56,13 @@ Au début des années 1860, elle se rend en Chine où elle fait un service de m�
 
 En 1906, à l'âge de 60 ans, Grace Eaton écrit *Jade: A Chinese Missionary Romance*, une nouvelle sur sa vie de missionnaire médicale à Shanghai et récemment retrouvée par Sydney Lines. Jade est probablement le premier roman asiatique nord-américain écrit en anglais par un auteur né en Chine. La fille de Grace, Winnifred Eaton (Onoto Watanna), est considérée comme la première romancière asiatique nord-américaine avec la publication de *Miss Numè of Japan* en 1899, sept ans plus tôt. On peut lire le fac-similé de la partie retrouvée de Jade (chapitres IV-X) ci-dessous.
 
-{% include feature/pdf.html objectid="achuenamoy_14" width="50" %} 
-
 ## Sources 來源
 
 Advertisement for “Chinese Family”,  *Leamington Spa Courier*, 25 Mar 1854: 2.
 
 Advertisement for “Chinese Magicians”, *Daily Alta California*, Volume 3, Number 278, 8 October 1852.
 
-Eaton, Grace. *Jade: A Chinese Missionary Romance*. *Montreal Weekly Witness*. July 1906.
+Eaton, Grace. *Jade: A Chinese Missionary Romance*. 
 
 Death record, New York State, May 6 1922.
 
